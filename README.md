@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sajjadsaleem5148-pixel/SajjadSaleem5148-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Header Typing SVG Banner --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Sajjad+Saleem;Full+Stack+Web+Developer+%F0%9F%9A%80;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React;Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<p align="center"> <strong>Full Stack Web Developer | Building Modern, Responsive & Scalable Web Applications</strong> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Social & Portfolio Badges --> <p align="center"> <a href="https://github.com/SajjadSaleem5148-pixel" target="blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/sajjadsaleemm/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
+
+<!-- Profile Visitors --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SajjadSaleem5148-pixel&label=Profile%20Views&color=00d8ff&style=flat-square" alt="Profile Views" /> </p>
+
+</div>
+
+🐍 GitHub Contribution Snake (Eating Commits!)
+
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajjadSaleem5148-pixel/SajjadSaleem5148-pixel/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajjadSaleem5148-pixel/SajjadSaleem5148-pixel/output/github-contribution-grid-snake.svg"> <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/SajjadSaleem5148-pixel/SajjadSaleem5148-pixel/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div>
+
+🚀 Tech Stack & Skills
+
+<div align="center">
+
+<table> <tr> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /> <br><strong>HTML5</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /> <br><strong>CSS3</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /> <br><strong>JavaScript</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /> <br><strong>Next.js</strong> </td> </tr> <tr> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /> <br><strong>Node.js</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /> <br><strong>MongoDB</strong> </td> </tr> </table>
+
+</div>
+
+🔥 GitHub Contributions & Streaks
+
+<div align="center"> <a href="https://github.com/SajjadSaleem5148-pixel"> <img width="85%" src="https://streak-stats.demolab.com/?user=SajjadSaleem5148-pixel&theme=tokyonight&hide_border=true&background=0d1117&fire=00d8ff&ring=00d8ff&sideLabels=ffffff&currStreakNum=00d8ff&currStreakLabel=ffffff" alt="Sajjad's GitHub Contributions Streak" /> </a> </div>
+
+🌟 Featured Live Applications & Production Projects
+
+<table> <tr> <td width="50%" valign="top"> <h3 align="center">💎 Yasir Fragrances</h3> <p align="center"> <a href="https://yasirfragrances.vercel.app/" target="blank"> <img src="https://img.shields.io/badge/LaunchStore-Live_App-c6a25a?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /> </a> </p> <p><strong>Luxury 50ml Pure Extrait De Parfum E-Commerce Store</strong></p> <ul> <li>✨ Signature scents (Shanu Noir, Marj, Bloom, Ambassador, Aura Oud)</li> <li>🐱 Interactive <strong>"Manoo AI"</strong> Store Assistant chatbot</li> <li>🎯 Scent Quiz recommendation engine & Wishlist/Cart</li> <li>📦 Cash on Delivery nationwide checkout system</li> </ul> <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>TypeScript</code> • <code>Manoo AI</code></p> </td>
+
+<td width="50%" valign="top"> <h3 align="center">🍖 Raskoh Dumpukht</h3> <p align="center"> <a href="https://raskoh.vercel.app/" target="blank"> <img src="https://img.shields.io/badge/OrderFood-Live_App-8B1D1D?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /> </a> </p> <p><strong>Royal Shinwari & Balochi Dumpukht Cuisine Platform</strong></p> <ul> <li>🍖 Multi-category food menu (Mutton Specials, Beef Karahi, Sajji)</li> <li>🛒 Real-time cart drawer with instant quantity controls</li> <li>📍 Akhtar Colony branch locator & direct delivery routing</li> <li>🏮 Royal kraft-paper and glowing lantern UI aesthetic</li> </ul> <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>TypeScript</code> • <code>Online Ordering</code></p> </td> </tr>
+
+<tr> <td width="50%" valign="top"> <h3 align="center">🛠️ MaintainIQ</h3> <p align="center"> <a href="https://maintainiq-next.vercel.app/login" target="blank"> <img src="https://img.shields.io/badge/AccessPortal-Live_App-06b6d4?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /> </a> </p> <p><strong>AI-Powered QR Asset Maintenance & Facilities Platform</strong></p> <ul> <li>🛡️ Role-based portals (Administrator & Technician views)</li> <li>📱 Smart QR code tagging for equipment history & specs</li> <li>🔧 Preventative maintenance scheduling & work orders</li> <li>⚡ Modern dark theme UI with enterprise auth flow</li> </ul> <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Video Hero</code> • <code>Responsive UI</code></p> </td>
+
+<td width="50%" valign="top"> <h3 align="center">🏰 3D Interactive House</h3> <p align="center"> <a href="https://talal-portfolio-snowy.vercel.app" target="blank"> <img src="https://img.shields.io/badge/Explore3D-Live_Demo-00d8ff?style=for-the-badge&logo=three.js&logoColor=white" alt="Live Demo" /> </a> </p> <p><strong>Interactive 3D Walkthrough Portfolio</strong></p> <ul> <li>🏠 Full 3D house navigation using React Three Fiber & Three.js</li> <li>☕ Interactive 3D skill tea cups with floating physics</li> <li>🎬 Smooth camera cinematic path animations powered by GSAP</li> </ul> <p><code>Three.js</code> • <code>React Three Fiber</code> • <code>GSAP</code> • <code>WebGL</code></p> </td> </tr>
+
+<tr> <td colspan="2" valign="top"> <h3 align="center">🏧 ATM Finder Backend</h3> <p align="center"> <a href="https://hackathon-sepia-eight.vercel.app/" target="blank"> <img src="https://img.shields.io/badge/APIHub-Live_API-539e43?style=for-the-badge&logo=node.js&logoColor=white" alt="Live API" /> </a> </p> <p><strong>Bank ATM & Branch Locator Hub Across Pakistan</strong></p> <ul> <li>🤖 Automated Playwright scrapers for major Pakistani banks</li> <li>🔒 Secure REST API with JWT auth and rate limiting</li> <li>🌐 Integrated Cloudflare tunnels and seeding scripts</li> </ul> <p><code>Node.js</code> • <code>Express</code> • <code>TypeScript</code> • <code>Playwright</code> • <code>MongoDB</code></p> </td> </tr>
+
+<tr> <td width="50%" valign="top"> <h3 align="center">🎟️ Lucky Lottery</h3> <p align="center"> <a href="https://aqeel-akbar.vercel.app/" target="blank"> <img src="https://img.shields.io/badge/PlayNow-Live_App-f59e0b?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /> </a> </p> <p><strong>Secure Lottery Ticket Submission & Verification Platform</strong></p> <ul> <li>🎫 Submit, verify, and manage lottery ticket records with ease</li> <li>💬 Built-in floating Support chat for instant assistance</li> <li>🔒 Secure, streamlined ticket record-keeping workflow</li> </ul> <p><code>Next.js</code> • <code>React</code> • <code>Tailwind CSS</code> • <code>Turbopack</code></p> </td>
+
+<td width="50%" valign="top"> <h3 align="center">🛍️ SHOP.CO</h3> <p align="center"> <a href="https://client-gold-three-38.vercel.app/" target="blank"> <img src="https://img.shields.io/badge/ShopNow-Live_Store-09090b?style=for-the-badge&logo=vercel&logoColor=white" alt="Live App" /> </a> </p> <p><strong>Modern E-Commerce Storefront Experience</strong></p> <ul> <li>🛒 Sleek, modern shopping UI for browsing & checkout</li> <li>⚡ Blazing-fast single-page app powered by Vite</li> <li>📱 Fully responsive, mobile-first storefront design</li> </ul> <p><code>React</code> • <code>Vite</code> • <code>JavaScript</code> • <code>E-Commerce</code></p> </td> </tr> </table>
+
+<div align="center"> ⭐️ Built with passion by <strong>Sajjad Saleem</strong> — Let's connect on <a href="https://www.linkedin.com/in/sajjadsaleemm/">LinkedIn</a>! </div>
