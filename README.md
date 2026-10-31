@@ -1,31 +1,27 @@
-<div align="center">
+# 💫 About Me:
+👋 Hi, I'm Sajjad Saleem!<br><br>💻 Modern Web Application Developer passionate about building modern, responsive, and user-friendly web applications.<br><br>🚀 Skills: HTML, CSS, JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB.<br><br>🌱 Always learning, building projects, and improving my development skills.<br><br>🎯 Open to Web Development Internships and Collaboration.
 
-<!-- Header Typing SVG Banner --> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&height=50&lines=Hi+%F0%9F%91%8B+I'm+Sajjad+Saleem;Full+Stack+Web+Developer+%F0%9F%9A%80;HTML+%E2%80%A2+CSS+%E2%80%A2+JavaScript+%E2%80%A2+React;Next.js+%E2%80%A2+Node.js+%E2%80%A2+MongoDB" alt="Typing SVG" />
 
-<p align="center"> <strong>Full Stack Web Developer | Building Modern, Responsive & Scalable Web Applications</strong> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadsaleemm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sajjadsaleem5148@gmail.com) 
 
-<!-- Social & Portfolio Badges --> <p align="center"> <a href="https://github.com/SajjadSaleem5148-pixel" target="blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/sajjadsaleemm/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sajjadsaleem5148-pixel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=sajjadsaleem5148-pixel&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sajjadsaleem5148-pixel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Profile Visitors --> <p align="center"> <img src="https://komarev.com/ghpvc/?username=SajjadSaleem5148-pixel&label=Profile%20Views&color=00d8ff&style=flat-square" alt="Profile Views" /> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sajjadsaleem5148-pixel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🐍 GitHub Contribution Snake (Eating Commits!)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sajjadsaleem5148-pixel&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SajjadSaleem5148-pixel/SajjadSaleem5148-pixel/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SajjadSaleem5148-pixel/SajjadSaleem5148-pixel/output/github-contribution-grid-snake.svg"> <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/SajjadSaleem5148-pixel/SajjadSaleem5148-pixel/output/github-contribution-grid-snake.svg" width="100%"> </picture> </div>
+---
+[![](https://komarev.com/ghpvc/?username=sajjadsaleem5148-pixel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-🚀 Tech Stack & Skills
-
-<div align="center">
-
-<table> <tr> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /> <br><strong>HTML5</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /> <br><strong>CSS3</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /> <br><strong>JavaScript</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" /> <br><strong>Next.js</strong> </td> </tr> <tr> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /> <br><strong>Node.js</strong> </td> <td align="center" width="105"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /> <br><strong>MongoDB</strong> </td> </tr> </table>
-
-</div>
-
-🔥 GitHub Contributions & Streaks
-
-<div align="center"> <a href="https://github.com/SajjadSaleem5148-pixel"> <img width="85%" src="https://streak-stats.demolab.com/?user=SajjadSaleem5148-pixel&theme=tokyonight&hide_border=true&background=0d1117&fire=00d8ff&ring=00d8ff&sideLabels=ffffff&currStreakNum=00d8ff&currStreakLabel=ffffff" alt="Sajjad's GitHub Contributions Streak" /> </a> </div>
-
-🌟 Featured Live Applications & Production Projects
-
-adsaleemm/">LinkedIn</a>! </div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
